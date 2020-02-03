@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[LBS - United States]]>
+    </line>
+    <line>
+      <![CDATA[Entered username and password]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Login ]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Quick Order ]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Copy and paste ]]>
+    </line>
+    <line>
+      <![CDATA[Entered Codes ]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Add to cart ]]>
+    </line>
+    <line>
+      <![CDATA[$60.09]]>
+    </line>
+    <line>
+      <![CDATA[$250.00]]>
+    </line>
+    <line>
+      <![CDATA[$267.65]]>
+    </line>
+    <line>
+      <![CDATA[$21.70]]>
+    </line>
+    <line>
+      <![CDATA[$864.37]]>
+    </line>
+    <line>
+      <![CDATA[$150.90]]>
+    </line>
+    <line>
+      <![CDATA[$205.27]]>
+    </line>
+    <line>
+      <![CDATA[$167.95]]>
+    </line>
+    <line>
+      <![CDATA[$1,134.00]]>
+    </line>
+    <line>
+      <![CDATA[$167.95]]>
+    </line>
+    <line>
+      <![CDATA[$21.55]]>
+    </line>
+    <line>
+      <![CDATA[$19.20]]>
+    </line>
+    <line>
+      <![CDATA[$70.97]]>
+    </line>
+    <line>
+      <![CDATA[$42.00]]>
+    </line>
+    <line>
+      <![CDATA[O-FIX 4 GALS]]>
+    </line>
+    <line>
+      <![CDATA[SLIDE WHITE APEX SUPERIOR ADHESIVE]]>
+    </line>
+    <line>
+      <![CDATA[SLIDE WHITE XTRA ADHESIVE CLIPPED CORNER]]>
+    </line>
+    <line>
+      <![CDATA[2460-1.5 MICRO COVER GLASS]]>
+    </line>
+    <line>
+      <![CDATA[Bond Polymer Refine Detection]]>
+    </line>
+    <line>
+      <![CDATA[7ml ChromograninA (5H7) Bond RTU Primary]]>
+    </line>
+    <line>
+      <![CDATA[15 mL Bond Anti-Fluorescein Ab]]>
+    </line>
+    <line>
+      <![CDATA[7ml HMB45 Bond RTU Primary]]>
+    </line>
+    <line>
+      <![CDATA[13.5 mL c-erbB-2 Oncoprotein BOND RTU]]>
+    </line>
+    <line>
+      <![CDATA[7ML SOX-10 (Polyclonal) 'CM']]>
+    </line>
+    <line>
+      <![CDATA[CYTOLOGY FIXATIVE (4 0Z) 12 BOTTLES/CASE]]>
+    </line>
+    <line>
+      <![CDATA[ACID ALCOHOL 1% (GAL)]]>
+    </line>
+    <line>
+      <![CDATA[IBF TISSUE FIXATIVE 4 GALS]]>
+    </line>
+    <line>
+      <![CDATA[SPRAYFIX - 3 OZ]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Checkout on shopping cart page ]]>
+    </line>
+    <line>
+      <![CDATA[Selected first address ]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Checkout on Address page ]]>
+    </line>
+    <line>
+      <![CDATA[Entered credit card number  ]]>
+    </line>
+    <line>
+      <![CDATA[Entered Expiry date]]>
+    </line>
+    <line>
+      <![CDATA[Entered CVV number]]>
+    </line>
+    <line>
+      <![CDATA[Unchecked save radio button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Checkout ]]>
+    </line>
+    <line>
+      <![CDATA[Subtotal]]>
+    </line>
+    <line>
+      <![CDATA[Shipping & Handling]]>
+    </line>
+    <line>
+      <![CDATA[Sales Tax]]>
+    </line>
+    <line>
+      <![CDATA[Total Cost]]>
+    </line>
+    <line>
+      <![CDATA[$9,884.64]]>
+    </line>
+    <line>
+      <![CDATA[$110.45]]>
+    </line>
+    <line>
+      <![CDATA[$0.00]]>
+    </line>
+    <line>
+      <![CDATA[$9,995.09]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Submit order on review your order page]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-02-03T13:56:46Z" name="Default suite" finished-at="2020-02-03T13:59:08Z" duration-ms="142689">
+    <groups>
+    </groups>
+    <test started-at="2020-02-03T13:56:46Z" name="Default test" finished-at="2020-02-03T13:59:08Z" duration-ms="142689">
+      <class name="lbs.leica.Testcase_240_UAT_Chrome">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:lbs.leica.Testcase_240_UAT_Chrome@68567e20]" started-at="2020-02-03T19:26:45Z" name="setUp" finished-at="2020-02-03T19:26:46Z" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initialization()[pri:0, instance:lbs.leica.Testcase_240_UAT_Chrome@68567e20]" started-at="2020-02-03T19:26:46Z" name="initialization" finished-at="2020-02-03T19:27:04Z" duration-ms="18279" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[LBS - United States]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="VerifyPrices()[pri:0, instance:lbs.leica.Testcase_240_UAT_Chrome@68567e20]" started-at="2020-02-03T19:27:04Z" name="VerifyPrices" finished-at="2020-02-03T19:29:08Z" duration-ms="123883" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Entered username and password]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Login ]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Quick Order ]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Copy and paste ]]>
+            </line>
+            <line>
+              <![CDATA[Entered Codes ]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Add to cart ]]>
+            </line>
+            <line>
+              <![CDATA[$60.09]]>
+            </line>
+            <line>
+              <![CDATA[$250.00]]>
+            </line>
+            <line>
+              <![CDATA[$267.65]]>
+            </line>
+            <line>
+              <![CDATA[$21.70]]>
+            </line>
+            <line>
+              <![CDATA[$864.37]]>
+            </line>
+            <line>
+              <![CDATA[$150.90]]>
+            </line>
+            <line>
+              <![CDATA[$205.27]]>
+            </line>
+            <line>
+              <![CDATA[$167.95]]>
+            </line>
+            <line>
+              <![CDATA[$1,134.00]]>
+            </line>
+            <line>
+              <![CDATA[$167.95]]>
+            </line>
+            <line>
+              <![CDATA[$21.55]]>
+            </line>
+            <line>
+              <![CDATA[$19.20]]>
+            </line>
+            <line>
+              <![CDATA[$70.97]]>
+            </line>
+            <line>
+              <![CDATA[$42.00]]>
+            </line>
+            <line>
+              <![CDATA[O-FIX 4 GALS]]>
+            </line>
+            <line>
+              <![CDATA[SLIDE WHITE APEX SUPERIOR ADHESIVE]]>
+            </line>
+            <line>
+              <![CDATA[SLIDE WHITE XTRA ADHESIVE CLIPPED CORNER]]>
+            </line>
+            <line>
+              <![CDATA[2460-1.5 MICRO COVER GLASS]]>
+            </line>
+            <line>
+              <![CDATA[Bond Polymer Refine Detection]]>
+            </line>
+            <line>
+              <![CDATA[7ml ChromograninA (5H7) Bond RTU Primary]]>
+            </line>
+            <line>
+              <![CDATA[15 mL Bond Anti-Fluorescein Ab]]>
+            </line>
+            <line>
+              <![CDATA[7ml HMB45 Bond RTU Primary]]>
+            </line>
+            <line>
+              <![CDATA[13.5 mL c-erbB-2 Oncoprotein BOND RTU]]>
+            </line>
+            <line>
+              <![CDATA[7ML SOX-10 (Polyclonal) 'CM']]>
+            </line>
+            <line>
+              <![CDATA[CYTOLOGY FIXATIVE (4 0Z) 12 BOTTLES/CASE]]>
+            </line>
+            <line>
+              <![CDATA[ACID ALCOHOL 1% (GAL)]]>
+            </line>
+            <line>
+              <![CDATA[IBF TISSUE FIXATIVE 4 GALS]]>
+            </line>
+            <line>
+              <![CDATA[SPRAYFIX - 3 OZ]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Checkout on shopping cart page ]]>
+            </line>
+            <line>
+              <![CDATA[Selected first address ]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Checkout on Address page ]]>
+            </line>
+            <line>
+              <![CDATA[Entered credit card number  ]]>
+            </line>
+            <line>
+              <![CDATA[Entered Expiry date]]>
+            </line>
+            <line>
+              <![CDATA[Entered CVV number]]>
+            </line>
+            <line>
+              <![CDATA[Unchecked save radio button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Checkout ]]>
+            </line>
+            <line>
+              <![CDATA[Subtotal]]>
+            </line>
+            <line>
+              <![CDATA[Shipping & Handling]]>
+            </line>
+            <line>
+              <![CDATA[Sales Tax]]>
+            </line>
+            <line>
+              <![CDATA[Total Cost]]>
+            </line>
+            <line>
+              <![CDATA[$9,884.64]]>
+            </line>
+            <line>
+              <![CDATA[$110.45]]>
+            </line>
+            <line>
+              <![CDATA[$0.00]]>
+            </line>
+            <line>
+              <![CDATA[$9,995.09]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Submit order on review your order page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyPrices -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:lbs.leica.Testcase_240_UAT_Chrome@68567e20]" started-at="2020-02-03T19:29:08Z" name="getResult" finished-at="2020-02-03T19:29:08Z" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyPrices status=SUCCESS method=Testcase_240_UAT_Chrome.VerifyPrices()[pri:0, instance:lbs.leica.Testcase_240_UAT_Chrome@68567e20] output=Entered username and password]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:lbs.leica.Testcase_240_UAT_Chrome@68567e20]" started-at="2020-02-03T19:29:08Z" name="aftertest" finished-at="2020-02-03T19:29:08Z" duration-ms="492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:lbs.leica.Testcase_240_UAT_Chrome@68567e20]" started-at="2020-02-03T19:29:08Z" name="tearDown" finished-at="2020-02-03T19:29:09Z" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- lbs.leica.Testcase_240_UAT_Chrome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
