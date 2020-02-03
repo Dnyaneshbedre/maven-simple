@@ -1,4 +1,4 @@
-package lbs.automation;
+package lbs.leica;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

@@ -1,4 +1,4 @@
-package lbs.automation;
+package lbs.leica;
 
 import java.io.IOException;
 import java.util.ArrayList;
